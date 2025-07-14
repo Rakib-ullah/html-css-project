@@ -1,0 +1,58 @@
+    .navbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background-image: url('/Styles/Hero-bg.png');
+      background-size: cover;
+      background-position: center;
+      padding: 300px;
+      color: rgb(32, 22, 22);
+    }
+
+    .logo {
+      font-size: 1.5rem;
+      position: absolute;
+      top: 40px;
+      
+    }
+
+    .signup-btn {
+      padding: 10px 20px;
+      background-color: #ff69b4;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-weight: bold;
+      position: absolute;
+      top: 40px;right: 200px;
+   
+    } 
+
+    .signup-btn:hover {
+      background-color: #3f333a;
+    }
+
+    .topic {
+      font-size: 5rem;
+      color: black;
+      position: absolute;
+      top: 300px; right: 1300px;
+    }
+    .topic2 {
+      font-size: 5rem;
+      position: absolute;
+      top: 380px; right: 1450px;
+    }
+
+    .Focaus-btn {
+      position: absolute;
+      top: 530px;right: 1700px;
+      padding: 12px 22px;
+      font-weight: bold;
+      border-radius: 6px;
+      color: blue;
+      font-size: 20px;
+      background-color: #ff69b4;
+      
+    }
