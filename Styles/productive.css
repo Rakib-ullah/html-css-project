@@ -5,15 +5,15 @@
 }
 
 .section-title {
-  font-size: 3em;
-  color: #c01313;
+  font-size: 2em;
+  color: #b81085;
   margin-bottom: 40px;
 }
 
 .stats {
   display: flex;
   justify-content: center;
-  gap: 50px;
+  gap: 40px;
   flex-wrap:wrap;
 }
 
