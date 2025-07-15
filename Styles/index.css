@@ -5,7 +5,7 @@
       background-image: url('/Styles/Hero-bg.png');
       background-size: cover;
       background-position: center;
-      padding: 300px;
+      padding: 200px;
       color: rgb(32, 22, 22);
     }
 
@@ -21,11 +21,11 @@
       background-color: #ff69b4;
       color: white;
       border: none;
-      border-radius: 5px;
+      border-radius: 4px;
       cursor: pointer;
       font-weight: bold;
       position: absolute;
-      top: 40px;right: 200px;
+      top: 30px;right: 150px;
    
     } 
 
@@ -42,16 +42,14 @@
     .topic2 {
       font-size: 5rem;
       position: absolute;
-      top: 380px; right: 1450px;
+      top: 190px; right: 300px;
     }
-
-    .Focaus-btn {
-      position: absolute;
-      top: 530px;right: 1700px;
-      padding: 12px 22px;
-      font-weight: bold;
-      border-radius: 6px;
-      color: blue;
+    
+    .Focausbtn { 
+      
+      margin-top: 90px;
+      margin-right: 350px;
+      color: rgb(20, 20, 206);
       font-size: 20px;
       background-color: #ff69b4;
       

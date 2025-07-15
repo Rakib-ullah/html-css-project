@@ -1,0 +1,51 @@
+.action-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px;
+  background-color: #fdfaf6;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.left-side {
+  flex: 1;
+  padding-right: 30px;
+}
+
+.right-side {
+  flex: 1;
+  text-align: right;
+}
+
+.title {
+  font-size: 2.5em;
+  color: #3b2f2f;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  font-size: 1.2em;
+  color: #6d5c5c;
+  margin-bottom: 20px;
+}
+
+.live-preview-btn {
+  background-color: #8c7b75;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 1em;
+  transition: background-color 0.3s ease;
+}
+
+.live-preview-btn:hover {
+  background-color: #a6948f;
+}
+
+.right-side img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
