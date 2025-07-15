@@ -1,33 +1,33 @@
 .productive-users {
-  background-color: #272015;  
-  padding: 60px 30px;
-  text-align: center;
+    background-color: #272015;
+    padding: 60px 30px;
+    text-align: center;
 }
 
 .section-title {
-  font-size: 2em;
-  color: #b81085;
-  margin-bottom: 40px;
+    font-size: 2em;
+    color: #b81085;
+    margin-bottom: 40px;
 }
 
 .stats {
-  display: flex;
-  justify-content: center;
-  gap: 40px;
-  flex-wrap:wrap;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
 }
 
 .stat-block {
-  min-width: 240px;
+    min-width: 240px;
 }
 
 .stat-number {
-  font-size: 4em;
-  color: #23b91e;
-  margin-bottom: 1%;
+    font-size: 4em;
+    color: #23b91e;
+    margin-bottom: 1%;
 }
 
 .stat-label {
-  font-size: 1.2em;
-  color: #7a6b65;
+    font-size: 1.2em;
+    color: #7a6b65;
 }

@@ -1,0 +1,93 @@
+.feedback {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    flex-wrap: wrap;
+    /* align-items: center; */
+    /* text-align: center; */
+}
+
+.feedback-card {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.feedback-title {
+    font-size: 2.3rem;
+    text-align: center;
+    color: rgb(19, 223, 223);
+}
+
+.feedback-section {
+    background-color: #ffffff;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.feedback-cards {
+    display: flex;
+    justify-content: left;
+    gap: 20px;
+    /* align-items: center; */
+    flex-wrap: wrap;
+}
+
+.feedback-card {
+    background-color: #b0bace;
+    border-radius: 10px;
+    padding: 20px;
+    width: 280px;
+    box-shadow: 0 4px 12px rgba(202, 65, 65, 0.05);
+    /* text-align: left; */
+}
+
+.feedback-card .stars {
+    color: #d6a21e;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.feedback-card h3 {
+    display: flex;
+    font-size: 1.1em;
+    margin-bottom: 10px;
+    color: #257e2a;
+    text-align: left;
+
+}
+
+.feedback-card p {
+    display: flex;
+    font-size: 1rem;
+    color: #3810e9;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.reviewer1 {
+    display: flex;
+    font-size: 1.2rem;
+    gap: 15px;
+    margin-bottom: 10px;
+    text-align: left;
+
+}
+
+.reviewer1 img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%
+}
+
+.reviewer-name p {
+    font-size: 2rem;
+    color: #b41e1e;
+}
+
+.reviewer-date {
+    font-size: 0.8em;
+    color: #0f4bc4;
+}

@@ -1,0 +1,23 @@
+.animated-button-section {
+    text-align: center;
+    padding: 250px 10px;
+    background-color: #5c595b;
+}
+
+.hover-btn {
+    background-color: #cd0edf;
+    color: white;
+    border: none;
+    padding: 14px 28px;
+    font-size: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.hover-btn:hover {
+    background-color: #0dccb2;
+    transform: translateY(-3px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}

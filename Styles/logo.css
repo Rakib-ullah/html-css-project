@@ -1,6 +1,6 @@
 .footer {
   background-color: #f9f9f9;
-  padding: 50px 20px;
+  padding: 250px 20px;
   text-align: center;
 }
 
@@ -28,7 +28,7 @@
 
 .footer-links a {
   color: #221213;
-  text-decoration:aqua;
+  text-decoration: aqua;
   font-weight: 600;
   font-size: 1.5rem;
 }
